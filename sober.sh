@@ -23,7 +23,7 @@ readonly SOBER_DIR="${HOME}/.var/app/org.vinegarhq.Sober"
 readonly CONFIG_DIR="${SOBER_DIR}/config/sober"
 readonly CONFIG_FILE="${CONFIG_DIR}/config.json"
 
-readonly CONFIG_URL="https://raw.githubusercontent.com/notchoutes/Sober-Out-of-Memory-Fix/main/config.json"
+readonly CONFIG_URL="https://raw.githubusercontent.com/choutes/Sober-Out-of-Memory-Fix/main/config.json"
 
 readonly TEMP_FILE="${CONFIG_FILE}.tmp.$$"
 
