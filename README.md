@@ -42,7 +42,7 @@ The easiest way to install the configuration is through the official installer.
 Run:
 
 ```bash
-curl -fsSL https://github.com/choutes/Sober-Out-of-Memory-Fix/raw/refs/heads/main/sober.sh | bash
+curl -fsSL https://raw.githubusercontent.com/notchoutes/Sober-Out-of-Memory-Fix/main/sober.sh | bash
 ```
 
 The installer will:
