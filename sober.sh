@@ -4,7 +4,7 @@
 # Official Installer
 #
 # Usage:
-#   curl -fsSL https://install.choutes.top/sober.sh | bash
+#   curl -fsSL https://github.com/choutes/Sober-Out-of-Memory-Fix/raw/refs/heads/main/sober.sh | bash
 #
 # Repository:
 #   https://github.com/notchoutes/Sober-Out-of-Memory-Fix
