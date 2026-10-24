@@ -187,7 +187,7 @@ Sober's own troubleshooting documentation specifically discusses texture-quality
 The installer downloads the configuration directly from this repository:
 
 ```text
-https://raw.githubusercontent.com/notchoutes/Sober-Out-of-Memory-Fix/main/config.json
+https://raw.githubusercontent.com/choutes/Sober-Out-of-Memory-Fix/main/config.json
 ```
 
 The downloaded file replaces:
