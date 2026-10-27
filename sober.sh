@@ -7,7 +7,7 @@
 #   curl -fsSL https://github.com/choutes/Sober-Out-of-Memory-Fix/raw/refs/heads/main/sober.sh | bash
 #
 # Repository:
-#   https://github.com/notchoutes/Sober-Out-of-Memory-Fix
+#   https://github.com/choutes/Sober-Out-of-Memory-Fix
 #
 
 set -Eeuo pipefail
@@ -17,7 +17,7 @@ set -Eeuo pipefail
 # =============================================================================
 
 readonly APP_NAME="Sober Out of Memory Fix"
-readonly APP_VERSION="1.0.0"
+readonly APP_VERSION="1.1.0"
 
 readonly SOBER_DIR="${HOME}/.var/app/org.vinegarhq.Sober"
 readonly CONFIG_DIR="${SOBER_DIR}/config/sober"
@@ -292,12 +292,12 @@ show_success() {
     printf "\n"
 
     printf "  ${DIM}Project:${RESET}\n"
-    printf "  ${DIM}https://github.com/notchoutes/Sober-Out-of-Memory-Fix${RESET}"
+    printf "  ${DIM}https://github.com/choutes/Sober-Out-of-Memory-Fix${RESET}"
 
     printf "\n"
 
     printf "  ${DIM}Installer:${RESET}\n"
-    printf "  ${DIM}https://install.choutes.top/sober.sh${RESET}"
+    printf "  ${DIM}https://raw.githubusercontent.com/choutes/Sober-Out-of-Memory-Fix/main/sober.sh${RESET}"
 
     printf "\n"
 
