@@ -42,7 +42,7 @@ The easiest way to install the configuration is through the official installer.
 Run:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/notchoutes/Sober-Out-of-Memory-Fix/main/sober.sh | bash
+curl -fsSL https://raw.githubusercontent.com/choutes/Sober-Out-of-Memory-Fix/main/sober.sh | bash
 ```
 
 The installer will:
@@ -60,12 +60,12 @@ After installation, launch Sober normally.
 
 If the official installer at `install.choutes.top/sober.sh` is unavailable or does not work, the same installer is available directly from the GitHub repository.
 
-**[View `sober.sh` on GitHub](https://github.com/notchoutes/Sober-Out-of-Memory-Fix/blob/main/sober.sh)**
+**[View `sober.sh` on GitHub](https://github.com/choutes/Sober-Out-of-Memory-Fix/blob/main/sober.sh)**
 
 You can run the GitHub version directly:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/notchoutes/Sober-Out-of-Memory-Fix/main/sober.sh | bash
+curl -fsSL https://raw.githubusercontent.com/choutes/Sober-Out-of-Memory-Fix/main/sober.sh | bash
 ```
 
 This uses the `sober.sh` installer from the `main` branch.
@@ -253,13 +253,7 @@ Sober should regenerate its configuration automatically.
 Run the official installer:
 
 ```bash
-curl -fsSL https://install.choutes.top/sober.sh | bash
-```
-
-If the official installer is unavailable, use the GitHub fallback:
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/notchoutes/Sober-Out-of-Memory-Fix/main/sober.sh | bash
+curl -fsSL https://raw.githubusercontent.com/choutes/Sober-Out-of-Memory-Fix/main/sober.sh | bash
 ```
 
 ---
@@ -335,20 +329,10 @@ See [`LICENSE`](LICENSE) for the complete license text.
 
 * **Sober:** https://sober.vinegarhq.org/
 * **VinegarHQ:** https://vinegarhq.org/
-* **Project Repository:** https://github.com/notchoutes/Sober-Out-of-Memory-Fix
-* **Installer:** https://install.choutes.top/sober.sh
-* **GitHub Installer:** https://github.com/notchoutes/Sober-Out-of-Memory-Fix/blob/main/sober.sh
-* **Choutes Studios:** https://choutes.top
+* **Project Repository:** https://github.com/choutes/Sober-Out-of-Memory-Fix
+* **GitHub Installer:** https://github.com/choutes/Sober-Out-of-Memory-Fix/blob/main/sober.sh
 
 ---
-
-<div align="center">
-
-### Sober Out of Memory Fix
-
-A community configuration for Sober on Linux.
-
-**Developed by Choutes Studios**
 
 <br>
 
