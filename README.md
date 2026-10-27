@@ -56,20 +56,6 @@ The installer will:
 
 After installation, launch Sober normally.
 
-### Installer Fallback
-
-If the official installer at `install.choutes.top/sober.sh` is unavailable or does not work, the same installer is available directly from the GitHub repository.
-
-**[View `sober.sh` on GitHub](https://github.com/choutes/Sober-Out-of-Memory-Fix/blob/main/sober.sh)**
-
-You can run the GitHub version directly:
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/choutes/Sober-Out-of-Memory-Fix/main/sober.sh | bash
-```
-
-This uses the `sober.sh` installer from the `main` branch.
-
 ### Requirements
 
 * Linux
